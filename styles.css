@@ -47,13 +47,13 @@ body {
   line-height: 1;
 }
 
-.scoreTitle {
+.score__title {
   font-size: 1.1rem;
   letter-spacing: 0.1em;
   color: hsl(229, 64%, 46%);
 }
 
-.scoreNumber {
+.score__number {
   font-size: 4rem;
   font-weight: 700;
   color: hsl(229, 25%, 31%);
